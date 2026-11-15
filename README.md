@@ -21,7 +21,6 @@ I explore real-world problems and turn ideas into useful AI-powered services.
 - 🏆 1st Place — LG Aimers 9th Offline Hackathon
 - 🔬 Interested in human behavior, data, and technology
 
-> "Don't just analyze the problem. Build something that solves it."
 
 ---
 
@@ -68,7 +67,7 @@ statistical research into an interactive educational experience.
 
 [💻 View Source Code](https://github.com/harry1234566/inbody-mystery)
 
-!-- GitHub Pages 배포 확인 후 아래 주석을 해제하세요.
+!--
 [🎮 Play the Game](https://harry1234566.github.io/inbody-mystery/)
 --
 
