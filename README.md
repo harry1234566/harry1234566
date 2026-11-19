@@ -67,7 +67,7 @@ statistical research into an interactive educational experience.
 
 [💻 View Source Code](https://github.com/harry1234566/inbody-mystery)
 
-!--
+
 [🎮 Play the Game](https://harry1234566.github.io/inbody-mystery/)
 --
 
